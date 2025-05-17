@@ -1,4 +1,4 @@
-# ASP.NET Core Clean Starter Template
+# ASP.NET Core Clean Start Up Template
 
 🚀 **A ready-to-use, clean architecture starter template for ASP.NET Core projects — designed to save time and boost productivity.**
 
@@ -82,7 +82,7 @@ Open a Pull Request
 👨‍💻 Author
 [Abazr Amin]
 Passionate .NET Developer focused on clean, scalable software design
-[<a href="@abazramin">X</a>]
+
 
 
 
