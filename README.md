@@ -14,15 +14,15 @@ This repository aims to minimize setup time when starting a new ASP.NET Core pro
 
 The solution follows a multi-layered architecture:
 
-Solution
-│
-├── Presentation --> Web Layer (API Controllers)
-├── Business --> Business Logic Layer (Interfaces & Services)
-├── DataAccess --> Database Layer (DbContext, Repositories)
-├── Entities --> Domain Models
-├── Utilities --> Common Helpers & Utility Classes
-├── Core --> Shared Interfaces & Abstractions
-└── Application.sln --> Solution File
+##Solution
+###│
+###├── Presentation --> Web Layer (API Controllers)
+###├── Business --> Business Logic Layer (Interfaces & Services)
+###├── DataAccess --> Database Layer (DbContext, Repositories)
+###├── Entities --> Domain Models
+###├── Utilities --> Common Helpers & Utility Classes
+###├── Core --> Shared Interfaces & Abstractions
+###└── Application.sln --> Solution File
 
 
 ---
